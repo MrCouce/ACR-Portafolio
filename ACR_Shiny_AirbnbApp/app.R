@@ -32,7 +32,7 @@ Interfaz<-navbarPage("Airb&b App",
                      tabPanel("Histograma de Precio", # PRIMER TAB
                               sidebarPanel(
                                 
-                                selectInput("barrio","Barrio:",
+                                selectizeInput("barrio","Barrio:",
                                             choices=dat$neighbourhood_group,selected="Ciutat Vella"),
                                 helpText("Elige un barrio"),
                                 hr(),

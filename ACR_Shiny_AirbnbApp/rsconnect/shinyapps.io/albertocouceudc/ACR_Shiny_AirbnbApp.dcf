@@ -1,0 +1,12 @@
+name: ACR_Shiny_AirbnbApp
+title: ACR_Shiny_AirbnbApp
+username: albertocouceudc
+account: albertocouceudc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10668822
+bundleId: 7985874
+url: https://albertocouceudc.shinyapps.io/ACR_Shiny_AirbnbApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
